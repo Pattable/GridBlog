@@ -1,6 +1,7 @@
 {
   "name": "gridblog",
   "private": true,
+  "homepage": "https://pattable.github.io/GridBlog",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
